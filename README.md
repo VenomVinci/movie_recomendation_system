@@ -45,5 +45,3 @@ The recommender system is built using Python and follows a content-based filteri
 - Additional scripts or files for data preprocessing (if applicable)
 
 ---
-
-*Developed by [Your Name]*  
